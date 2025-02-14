@@ -79392,7 +79392,7 @@ return A.L($async$zd,r)},
 aw(){this.aP()},
 Ux(a){var s=null,r=t.w,q=A.Au("Use Celsius",s,s,A.bk(a,s,r).w.a.a<720?0.8:1),p=A.T(a).aeD(new A.n9(s,s,s,s,s,s,s,s,s))
 return new A.bP(B.fc,A.h7(A.b([q,new A.p7(p,new A.zH(new A.akG(this),s),s),A.cj(s,s,A.bk(a,s,r).w.a.a<720?6:16)],t.p),B.ar,B.j0,B.cY),s)},
-Q7(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=A.aET(h,h,new A.v7("favicongen.jpg",h,h))
+Q7(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=A.aET(h,h,new A.v7("images/favicongen.jpg",h,h))
 g=A.q2(new A.bP(B.Cv,A.ar3(A.eG(32),new A.wN(g,h),B.bD),h),h,h)
 s=i.ay
 r=B.c.aA(100*s)
