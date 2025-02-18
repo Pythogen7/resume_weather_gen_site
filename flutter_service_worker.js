@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "8a0c879e98b1eea354109916923f3e60",
-"assets/AssetManifest.bin.json": "78e948e14d2af6e3cdea8a334761e9d3",
-"assets/AssetManifest.json": "352d6a37f9656412c52d8cea3037b679",
+const RESOURCES = {"assets/AssetManifest.bin": "992ebd82bc3f47f09abc70d7396dfd39",
+"assets/AssetManifest.bin.json": "dd8b7e93fb6993790421f13657196748",
+"assets/AssetManifest.json": "36d35f5a051ee7fa50ea57defca217f4",
+"assets/assets/images/favicongen.jpg": "0fd8160d463ebabfc87a18964645fab1",
 "assets/FontManifest.json": "e3637cec141ff037b4151edf1c0411cb",
 "assets/fonts/MaterialIcons-Regular.otf": "a796384ecf811aea2ccf8e591b8a8171",
 "assets/NOTICES": "de3bcc1ceff40137d144e32b71f39e37",
@@ -41,24 +42,19 @@ const RESOURCES = {"assets/AssetManifest.bin": "8a0c879e98b1eea354109916923f3e60
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "ed2711fde329ac665896da5b17f68176",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "2c0ff34e3095ed0d4dd003c9262da0ff",
+"flutter_bootstrap.js": "13e36ef0bfa15a6548e99e33717645b9",
 "icons/Icon-192.png": "5da7d07beab8b62d2e72f37492b6ea06",
 "icons/Icon-512.png": "bf29d2bddbb3130404a942561b9aada2",
 "icons/Icon-maskable-192.png": "5da7d07beab8b62d2e72f37492b6ea06",
 "icons/Icon-maskable-512.png": "bf29d2bddbb3130404a942561b9aada2",
 "index.html": "d4e6e2ebc6d40e944adfbec55e1d462e",
 "/": "d4e6e2ebc6d40e944adfbec55e1d462e",
-"main.dart.js": "530df74d7d4f3d897e39217ea5473474",
-"main.dart.mjs": "b7ba6a8fc53ad224c84f4fec9234b059",
-"main.dart.wasm": "2c698728524abe6627dec62406308aac",
-"main.dart.wasm.map": "3008be96d0686c196f4dde7494b30d54",
+"main.dart.js": "0d99da5c412a02aff85ed5bdda733c5f",
 "manifest.json": "9049a09dc3c98e1d9f86fdf589ba0d2a",
 "version.json": "1e9c8cebdb14ea9ac571f91d5c8e60f3"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
-"main.dart.wasm",
-"main.dart.mjs",
 "index.html",
 "flutter_bootstrap.js",
 "assets/AssetManifest.bin.json",

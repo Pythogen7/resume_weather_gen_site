@@ -79476,7 +79476,7 @@ p=A.cj(o,8,o)
 r=A.T(a).p2.z
 if(r==null)n=o
 else{n=r.b
-n=n==null?o:n.e3(180)}return A.il(A.b([q,p,A.Au("The Ultimate Weather Generator generates weather data by analyzing historical weather records from various climates worldwide.",o,n,0.9)],t.p),B.bF,B.ae)},
+n=n==null?o:n.e3(180)}return A.il(A.b([q,p,A.Au("The Weather Generator was built by analyzing historical weather records from various climates worldwide.",o,n,0.9)],t.p),B.bF,B.ae)},
 Ge(a,b,c,d){var s=null,r=A.eG(12)
 return A.HU(!1,s,!0,A.eq(A.h7(A.b([A.a0h(b,B.B9,s),B.Ml,A.abp(c,s,B.k,1.15)],t.p),B.ar,B.aE,B.cY),B.x,s,new A.cJ(B.AO,s,s,r,s,s,B.aj),s,s,B.fc,s),s,!0,s,s,s,s,s,s,s,s,s,d,s,s,s,s)},
 Ri(a){var s=this,r=null
